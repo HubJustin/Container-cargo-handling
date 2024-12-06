@@ -1,0 +1,10 @@
+﻿  main.cpp
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(115,70): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(161,44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(164,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 466 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TransportSchedule.vcxproj -> H:\Justin\source\repos\TransportSchedule\x64\Release\TransportSchedule.exe

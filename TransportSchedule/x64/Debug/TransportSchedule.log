@@ -1,0 +1,5 @@
+﻿  main.cpp
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(115,70): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(161,44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+H:\Justin\source\repos\TransportSchedule\TransportSchedule\main.cpp(164,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  TransportSchedule.vcxproj -> H:\Justin\source\repos\TransportSchedule\x64\Debug\TransportSchedule.exe
